@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FreakInTheSpreadsheet
+- 👋 Hi, I’m @Infinitely-Iterable
 - 👀 I’m interested in music, calculators, and making my life easier through my little projects!
 - 🌱 I’m currently learning mostly python, but am dipping my toes into SQL and PHP.
 - 💞️ I’m looking to collaborate on really anything. I do not have a ton of free time generally, but when I do, I like to spend it figuring things out.
