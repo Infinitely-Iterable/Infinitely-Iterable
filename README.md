@@ -42,7 +42,7 @@ Here’s a **rewritten** and **stylized** GitHub profile README in Markdown form
 
 ## Let’s Connect
 - **Email:** [grantdecap@proton.me](mailto:grantdecap@proton.me)  
-- **LinkedIn:** [grant-decapua](www.linkedin.com/in/grant-decapua)  
+- **LinkedIn:** [www.linkedin.com/in/grant-decapua]  
 
 ---
 
