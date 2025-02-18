@@ -1,12 +1,60 @@
-- 👋 Hi, I’m @Infinitely-Iterable
-- 👀 I’m interested in music, calculators, and making my life easier through my little projects!
-- 🌱 I’m currently learning mostly python, but am dipping my toes into SQL and PHP.
-- 💞️ I’m looking to collaborate on really anything. I do not have a ton of free time generally, but when I do, I like to spend it figuring things out.
-- 📫 The best place to reach me is at my email: grantdecap@proton.me
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Prior to working in data/business consulting, I spent my time as a roadie, and chasing hurricanes/tornadoes in the off season with a disaster recovery and response NGO.
+Here’s a **rewritten** and **stylized** GitHub profile README in Markdown format. Feel free to tweak any sections, add/remove details, or insert your own links and images!
 
-<!---
-FreakInTheSpreadsheet/FreakInTheSpreadsheet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+# Hello there, I’m Infinitely-Iterable! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave">
+
+> **Software Enthusiast • Music Lover • Calculator Aficionado**
+
+---
+
+## About Me
+- **👀 Interests:** Music, calculators, and automating life’s little hassles with code.  
+- **🌱 Currently Learning:**  
+  - Primarily **Python**  
+  - Dipping my toes into **SQL** and **PHP**  
+- **💞️ Collaboration:** Open to contributing on interesting projects—though time is limited, I love to learn and tinker when I can.  
+- **📫 Reach Me:** [grantdecap@proton.me](mailto:grantdecap@proton.me)  
+- **😄 Pronouns:** He/Him  
+- **⚡ Fun Fact:** Before data/business consulting, I worked as a roadie and spent off-seasons chasing hurricanes/tornadoes with a disaster recovery & response NGO.
+
+---
+
+## Tech Toolbox
+<!-- Add or remove tools as needed -->
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL Badge"/>
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" alt="Markdown Badge"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart Badge"/>
+
+</p>
+
+---
+
+## Current Projects
+<!-- Placeholder: describe or link to your favorite repos/projects here -->
+- **Debate Timer:** A purpose built timing app for high school debate including PF, LD, and Policy  
+- **GSpeed Reader:** A free, open source speed reader.  
+- **MissingNo:** A reverse calculator built for auditing professionals.
+
+---
+
+## Let’s Connect
+- **Email:** [grantdecap@proton.me](mailto:grantdecap@proton.me)  
+- **LinkedIn:** [grant-decapua](www.linkedin.com/in/grant-decapua)  
+
+---
+
+## GitHub Stats
+<!-- Optional: Insert dynamic stats if you’d like (e.g., using GitHub-readme-stats) -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Infinitely-Iterable&show_icons=true&theme=radical" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Infinitely-Iterable&layout=compact&theme=radical" height="150" alt="Top languages" />
+</p>
+
+---
+
+<p align="center">
+  <em>“Making life easier, one line of code at a time.”</em>
+</p>
