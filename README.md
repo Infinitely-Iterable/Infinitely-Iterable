@@ -1,7 +1,3 @@
-Here’s a **rewritten** and **stylized** GitHub profile README in Markdown format. Feel free to tweak any sections, add/remove details, or insert your own links and images!
-
----
-
 # Hello there, I’m Infinitely-Iterable! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave">
 
 > **Software Enthusiast • Music Lover • Calculator Aficionado**
