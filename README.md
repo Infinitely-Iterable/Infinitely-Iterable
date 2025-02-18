@@ -30,8 +30,8 @@
 
 ## Current Projects
 <!-- Placeholder: describe or link to your favorite repos/projects here -->
-- **Debate Timer:** A purpose built timing app for high school debate including PF, LD, and Policy  
-- **GSpeed Reader:** A free, open source speed reader.  
+- **[Debate Timer](https://github.com/Infinitely-Iterable/debateTimer):** A purpose built timing app for high school debate including PF, LD, and Policy  
+- **[GSpeed Reader](https://github.com/Infinitely-Iterable/GSpeed_Reader):** A free, open source speed reader.  
 - **MissingNo:** A reverse calculator built for auditing professionals.
 
 ---
