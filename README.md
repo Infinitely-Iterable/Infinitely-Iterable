@@ -11,7 +11,6 @@
   - Dipping my toes into **SQL** and **PHP**  
 - **💞️ Collaboration:** Open to contributing on interesting projects—though time is limited, I love to learn and tinker when I can.  
 - **📫 Reach Me:** [grantdecap@proton.me](mailto:grantdecap@proton.me)  
-- **😄 Pronouns:** He/Him  
 - **⚡ Fun Fact:** Before data/business consulting, I worked as a roadie and spent off-seasons chasing hurricanes/tornadoes with a disaster recovery & response NGO.
 
 ---
@@ -47,7 +46,6 @@
 ## GitHub Stats
 <!-- Optional: Insert dynamic stats if you’d like (e.g., using GitHub-readme-stats) -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Infinitely-Iterable&show_icons=true&theme=radical" height="150" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Infinitely-Iterable&layout=compact&theme=radical" height="150" alt="Top languages" />
 </p>
 
