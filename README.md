@@ -1,6 +1,6 @@
 # Hello there, I’m Infinitely-Iterable! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave">
 
-> **Software Enthusiast • Music Lover • Calculator Aficionado**
+> **Software Enthusiast • Accounting Student • Music Lover • Calculator Aficionado**
 
 ---
 
@@ -40,14 +40,6 @@
 - **Email:** [grant@gdecapua.com](mailto:grant@gdecapua.com)
 - **My Website:** [Click Here](https://gdecapua.com)
 - **LinkedIn:** [www.linkedin.com/in/grant-decapua]  
-
----
-
-## GitHub Stats
-<!-- Optional: Insert dynamic stats if you’d like (e.g., using GitHub-readme-stats) -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Infinitely-Iterable&layout=compact&theme=radical" height="150" alt="Top languages" />
-</p>
 
 ---
 
