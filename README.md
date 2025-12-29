@@ -10,7 +10,7 @@
   - Primarily **Python**  
   - Dipping my toes into **SQL** and **PHP**  
 - **💞️ Collaboration:** Open to contributing on interesting projects—though time is limited, I love to learn and tinker when I can.  
-- **📫 Reach Me:** [grantdecap@proton.me](mailto:grantdecap@proton.me)  
+- **📫 Reach Me:** [grant@gdecapua.com](mailto:grant@gdecapua.com)  
 - **⚡ Fun Fact:** Before data/business consulting, I worked as a roadie and spent off-seasons chasing hurricanes/tornadoes with a disaster recovery & response NGO.
 
 ---
@@ -37,7 +37,7 @@
 ---
 
 ## Let’s Connect
-- **Email:** [grantdecap@proton.me](mailto:grantdecap@proton.me)
+- **Email:** [grant@gdecapua.com](mailto:grant@gdecapua.com)
 - **My Website:** [Click Here](https://gdecapua.com)
 - **LinkedIn:** [www.linkedin.com/in/grant-decapua]  
 
